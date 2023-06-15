@@ -1,0 +1,1 @@
+# webpacl-linters-template
