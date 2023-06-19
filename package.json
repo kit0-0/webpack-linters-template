@@ -21,8 +21,8 @@
     "webpack-dev-server": "^4.15.1"
   },
   "scripts": {
-    "start": "webpack-dev-server --mode production --open",
-    "build": "webpack --mode production",
+    "start": "webpack-dev-server --open",
+    "build": "webpack",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   }
