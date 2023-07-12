@@ -17,7 +17,7 @@ To use this template and set up your project, follow these steps:
 1. Click on the "Use this template" button or manually clone the repository.
 2. Clone the repository to your local machine using Git.
    ```bash
-   git clone https://github.com/kit0-0/webpacl-linters-template.git
+   git clone https://github.com/kit0-0/webpack-linters-template.git
    ```
 3. Navigate to the project directory.
    ```bash
